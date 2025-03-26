@@ -1,3 +1,5 @@
+# Forked from https://github.com/Novfensec/SAMPLE-KIVYMD-APP
+
 # SAMPLE-KIVYMD-APP
 
 [![GitHub Workflow Build](https://img.shields.io/github/actions/workflow/status/Novfensec/SAMPLE-KIVYMD-APP/buildozer_action.yml?label=Android%20Build&logo=android&style=for-the-badge)](https://github.com/Novfensec/SAMPLE-KIVYMD-APP/actions)
